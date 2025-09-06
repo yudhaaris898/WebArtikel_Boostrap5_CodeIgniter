@@ -1,0 +1,3 @@
+<h1>ini halaman percobaan</h1>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente, est autem quas nostrum non excepturi libero, maiores amet eveniet repellendus expedita quam nihil voluptatibus, consectetur rem totam dignissimos ratione fugiat!</p>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente, est autem quas nostrum non excepturi libero, maiores amet eveniet repellendus expedita quam nihil voluptatibus, consectetur rem totam dignissimos ratione fugiat!</p>
